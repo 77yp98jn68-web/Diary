@@ -1,7 +1,7 @@
 # Semester Project – Weekly Diary
 
 **Namen:** Anika Schelinski, Elisabeth Sonnenberg, Lea Schönemann 
-**Course:** Digital Media  
+# **Course:** Digital Media  
 **Semester:** Winter Semester 2026/27
 
 ## About this diary
