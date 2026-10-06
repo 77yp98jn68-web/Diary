@@ -30,3 +30,18 @@ First it was very difficult to collect ideas because there is so much to tell ab
 - Research
 - Asking the staff about the building progress
 - Maybe making pictures of the statues of the four master builders 
+
+## Five Questions 
+
+1. who has this problem, and what is actually happening to them?
+   - Tourist that don't know where and how to start exploring the Minster.  
+
+2. given what we now know, what might we build?
+   - a simple not distracting guide that gives the visitor a start/orientation and also a story to get them climb up the tower.
+
+? 3. what things exist in this system, and how do they relate?
+
+? 4. how is all of it arranged, and what does a screen contain?
+ 
+? 5. what does it actually look and feel like?
+
