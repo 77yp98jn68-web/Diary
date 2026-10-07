@@ -9,7 +9,9 @@
  
 
 ##  Process
-
+Ani is researching the master builders.
+Elisabeth is reading through the book we got from the receptionist.
+Lea is researching which audio guides already exist for Ulm Minster or rather, the guides available there in general.
 
 
 
