@@ -13,7 +13,7 @@ We will use this weekly diary to document our progress, ideas, research, decisio
 ## Weekly Overview
 
 - [Week 01](Week-01.md)
-- Week 02
+- [Week 02](Week-02.md)
 - Week 03
 - Week 04
 - Week 05
