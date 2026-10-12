@@ -38,5 +38,5 @@ One of our main challenges was that there was so much information available, whi
 ##  Next steps
 
 - Research
-- Asking the staff if they would be willing to participate in an interview
+- Conducting an interview with the staff.
 
