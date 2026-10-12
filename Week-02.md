@@ -23,7 +23,7 @@ Our idea is to give visitors the opportunity to learn about the construction pro
 
 ##  Problems & Challenges
 
-First it was very difficult to collect ideas because there is so much to tell about this specific place. One of our main challenges is encouraging visitors to engage with the web app more than just once. Although we have developed a possible solution to motivate repeated use, we still see it as a challenge to make this approach work effectively in practice.
+One of our main challenges was that there was so much information available, which made it difficult to decide what to include and what to leave out.
 
 
 
@@ -45,5 +45,5 @@ The story boils down to four key people who actually shaped what you see today:
 ##  Next steps
 
 - Research
-- Asking the staff about the building progress
-- Maybe making pictures of the statues of the four master builders 2
+- Asking the staff if they would be willing to participate in an interview
+
