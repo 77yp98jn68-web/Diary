@@ -15,10 +15,6 @@ Lea is researching which audio guides already exist for Ulm Minster or rather, t
 
 
 
-##  Ideas
-
-Our idea is to give visitors the opportunity to learn about the construction process and the history of the Minster as they climb up the tower. At the beginning, visitors can choose one of the four master builders and experience the story of how the Minster was built from their perspective. The story is divided throughout the 768 steps of the tower. As visitors climb higher, they unlock new parts of the story at different points along the way, gradually learning how the Minster was built. This keeps the experience engaging and gives visitors something to discover throughout the climb, so they don’t get bored along the way. The entire experience works as an audio guide, allowing visitors to stay engaged with the Minster itself instead of being distracted by their phones.
-
 
 
 ##  Problems & Challenges
