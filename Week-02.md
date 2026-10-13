@@ -29,6 +29,29 @@ The story boils down to four key people who actually shaped what you see today:
 - Burkhart Engelberg (1494–1512): Saved the whole thing from falling down. When pushing the tower higher caused massive cracks in the         walls, he stepped in, strengthened the foundation, and added extra interior columns to carry the weight.
 - August Beyer (1885–1890): Finished the job. After work stopped for centuries, he led the final 19th-century push and placed the top stone   cross at 161.53 meters (530 ft), giving Ulm the tallest church spire in the world.
 
+## Ulma-Ulm-Ulmensis
+
+In the book Ulma-Ulm-Ulmensis from Albert Schmid I found a lot of interesting facts about the Ulm Minster and about the building process: 
+
+The construction of Ulm Minster began because the citizens wanted to build a large church where all the citizens could fit inside. The plans had existed for some time, but an unsuccessful siege by Emperor Charles IV in 1376 helped motivate the project.
+The foundation stone was laid on 30 June 1377 at 7 a.m., shortly after sunrise. Almost the entire population of Ulm witnessed the ceremony. Mayor Kraft donated 100 gold guilders on that day.
+
+Originally, a five-metre-high statue of the Virgin Mary holding the Christ Child was planned for the top of the tower.
+
+Many builders worked on the church over the years. The church was opened in 1405, but it was not finished yet.
+Matthäus Böblinger was responsible for the tower's construction from 1474 to 1494. The tower had reached a height of 70.46 metres. After structural problems, Burkhart Engelberg took over the repairs and continued the construction work in 1453. He later strengthened the tower's foundations.
+
+A large stone bird, originally intended to represent the imperial eagle, eventually became associated with the famous Ulmer Spatz, which is now a symbol of the city.
+
+In 1844, people started building again to finish the church. They collected money from different parts of Germany.
+The southern tower was completed in 1877, and the northern tower in 1880.
+The main tower was finally completed on 31 May 1890 at 6 p.m., when the final stone was put into place.
+
+At that time, Ulm Minster became famous for having the tallest church tower in the world.
+- Main tower: 161.53 metres high
+- East towers: 86 metres high
+- Length: 139.5 metres
+- Width: 59.2 metres
 
 ##  Problems & Challenges
 
