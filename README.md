@@ -16,7 +16,7 @@ We will use this weekly diary to document our progress, ideas, research, decisio
 - [Week 02](Week-02.md)
 - [Week 03](Week-03.md)
 - [Week 04](Week-04.md)
-- Week 05
+- [Week 05](Week-05.md)
 - Week 06
 - Week 07
 - Week 08
