@@ -5,7 +5,7 @@
 
 - Doing the presentation for the Course achievement 1
 - Refresh of our brief
-- Object diary
+- Object map
 - Make an Appointment with the Dekan
  
 
