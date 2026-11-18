@@ -65,6 +65,48 @@ From the bottom up, the journey is divided into four stages. At each transition,
 | **Preparation** |	Information screen before starting |
 | **Memory** |	Post-visit summary, share link |
 
+## Kevin Lynch Elements
+
+**Paths**
+
+- Entrance
+- Spiral staircase upwards
+- Spiral staircase downwards
+
+→ No map needed, there is only one route, so the question is:
+→ Where am I right now?
+
+**Edges**
+
+- Narrow spiral staircase
+- Small windows
+- Construction site
+
+→ Windows offer opportunities to look outside and provide visual orientation cues.
+
+**Districts**
+
+- Entrance / tower hall
+- Platform at 70 m
+- Top platform at 143 m
+→ Each area corresponds to a different section (construction phase).
+
+**Nodes**
+
+- Ticket counter
+- Platforms
+- Viewing point
+
+→ Visitors can stop here without blocking the flow of movement.
+
+**Landmarks**
+
+- The tower from the outside
+- No landmarks from the inside
+- Views from above, e.g. the Danube
+
+→ Orientation at different heights.
+
 ##  Problems & Challenges
 
 
