@@ -50,6 +50,21 @@ From the bottom up, the journey is divided into four stages. At each transition,
 | **Source** | Verifiable evidence for a fact |
 | **Transcript** | The text of the audio piece |
 | **Memory** | Everything after the visit: listen again, view images, share |
+
+## Components
+
+| Object |	Components |
+|---|---|
+| **Narrator** |	Intro card, handover screen, mini avatar in player, completion screen at the top, profile |
+| **Audio** |	Player bar with large buttons, short/long toggle |
+| **Station** |	Marker on the progress bar, arrival screen |
+| **Tour** |	Progress bar with four sections, start screen |
+| **Transcript**|	Expandable section, full-screen text |
+| **Source** |	“Verified” indicator, source list |
+| **Image** |	Preview image, then-and-now comparison, gallery |
+| **Preparation** |	Information screen before starting |
+| **Memory** |	Post-visit summary, share link |
+
 ##  Problems & Challenges
 
 
