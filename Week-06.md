@@ -14,27 +14,27 @@ This week,
 
 ##  Navigation
 
-ABSCHNITT 1
-**Der Anfang**
-Heinrich II. Parler
-1377 bis späte 1380er
+SECTION 1
+**The Beginning**
+Heinrich II Parler
+1377 to the late 1380s
 
-ABSCHNITT 2
-**Die Vision**
-Ulrich von Ensingen 
-1392 bis 1419
+SECTION 2
+**The Vision**
+Ulrich von Ensingen
+1392 to 1419
 
-ABSCHNITT 3
-**Die Rettung**
+SECTION 3
+**The Rescue**
 Burkhart Engelberg
-1494 bis 1512
+1494 to 1512
 
-ABSCHNITT 4
-**Die Vollendung**
+SECTION 4
+**The Completion**
 August Beyer
-1885 bis 1890
+1885 to 1890
 
-Von unten nach oben: Der Weg ist in vier Abschnitte geteilt. An jedem Wechsel übergibt ein Baumeister an den nächsten.
+From the bottom up, the journey is divided into four stages. At each transition, one master builder hands over to the next.
 
 ##  Problems & Challenges
 
