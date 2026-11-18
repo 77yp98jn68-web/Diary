@@ -107,21 +107,7 @@ From the bottom up, the journey is divided into four stages. At each transition,
 
 → Orientation at different heights.
 
-##  Problems & Challenges
-
-
-Open Questions: 
-
-1. **Is there mobile reception inside the tower, or does the audio tour need to be downloaded in advance?**
-
-2. **Where can visitors stop inside the tower without blocking other people on the stairs?**
-
-3. **How do we distinguish between fictional content and historically verified facts?**
-
-4. **Do we need an English version? We have only interviewed German-speaking visitors so far, but the tower attendant says that the visitors are international.**
-
-
 
 ##  Next steps
-- Clarify our open questions
+- 20 Thumbnails
 - Interview with Dekan 
