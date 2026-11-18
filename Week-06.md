@@ -35,7 +35,18 @@ August Beyer
 1885 to 1890
 
 From the bottom up, the journey is divided into four stages. At each transition, one master builder hands over to the next.
-
+## Objects
+TERM	            DEFINITION
+Preparation:	    Info before the climb: duration, effort level, turning back is allowed
+Tour:	            The entire climb as one story, in four sections, each with its own master builder
+Stop:	            A pause at a resting point with a story and a viewpoint tip
+Location:         in the tower	Resting point, platform, or height of a stop
+Audio:	          A stop’s audio piece, in a short and a long version
+Narrator:	        One of the four master builders, with their construction phase and voice
+Image:	          A photo from today or a historical view from the past
+Source:	          Verifiable evidence for a fact
+Transcript:	      The text of the audio piece
+Memory:	          Everything after the visit: listen again, view images, share
 ##  Problems & Challenges
 
 
