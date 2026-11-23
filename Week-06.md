@@ -6,11 +6,6 @@
 - context map with navigation
 - Kevin Lynch elements
 
-##  Process
-
-What did we do?
-
-This week, 
 
 ##  Navigation
 
