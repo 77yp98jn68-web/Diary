@@ -41,7 +41,7 @@
 - Tatjana: Pictures of the church, both inside and outside, as well as views from the top.
 - Katharina: Pictures of Ulm Minster from different perspectives, highlighting its most interesting features.
 
-**Infos**
+**Info**
 - Thomas: Either information about Ulm Minster or, more likely, information about the app itself, such as its version, creators, and purpose.
 - Elia: Information about when Ulm Minster was built, how tall it is, how it was constructed, and who built it.
 - Mona: Important information about Ulm Minster, contact details, and upcoming events.
@@ -49,7 +49,37 @@
 - Katharina: General information about Ulm Minster, such as a brief overview of its history and opening hours.
 
 
+##  Thumbnails
 
+## Interview
+Important Infos from the Dekan:
+
+- For 135 years you can walk up the tower
+- used to have no tower
+- built from choir room
+- Ulm's money rules the world
+- capacity of 20,000 people
+- formerly 5,000 inhabitants
+- competition with Augsburg, Cologne and Nuremberg
+- built by citizens until today
+- Ulrich Ensinger -> interior construction: five aisles
+- Matthäus Böblinger -> Turm
+- Ferdinand Trän -> Directed the resumption of construction work from 1844
+- August von Beyer -> completion of the tower in the 19th century
+- five-aisled basilica
+- initially 143 metres → construction site -> from spring onwards
+- 101 metres
+- Scaffolding moves around
+- pay attention to the cardinal directions
+- new master builder from January 1st
+- bells
+- three levels:
+  - 70 metres
+  - 101 metres
+  - 143 metres
+  - (bell chamber)
+- December 18th: Christmas market
+  
 ##  Next steps
-- 20 Thumbnails
-- Interview with Dekan 
+- first screen in HTML
+
