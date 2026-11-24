@@ -12,9 +12,10 @@
 
 **Interviewed Participants**
 - Thomas Studener (22, student from Ulm)
+- Doris Hack (23, student from Ulm)
 - Elia Marie Thomas (20, tourist)
 - Mona Schmid (23, tourist)
-- Tatjana (21, lives in Ulm)
+- Tatjana (21, trainee from Ulm)
 - Katharina (26, lives in Ulm)
 
 **Start**
@@ -50,6 +51,7 @@
 
 
 ##  Thumbnails
+
 
 ## Interview
 Important Infos from the Dekan:
