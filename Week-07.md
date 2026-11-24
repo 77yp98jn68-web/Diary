@@ -51,6 +51,14 @@
 
 
 ##  Thumbnails
+<img width="1512" height="960" alt="image" src="https://github.com/user-attachments/assets/5afc4a0b-9242-41b8-b460-6f3781e22bb5" />
+
+<img width="1512" height="1014" alt="image" src="https://github.com/user-attachments/assets/1f66da79-dcea-407e-8dac-89eb47371127" />
+
+<img width="2728" height="1014" alt="image" src="https://github.com/user-attachments/assets/bcf092e2-9f0f-4a0d-b927-6d59191cc4dd" />
+
+<img width="1679" height="766" alt="image" src="https://github.com/user-attachments/assets/1d4bd08e-8003-4a65-9a85-7d9c3cd0267b" />
+
 <img width="1198" height="456" alt="Bild 24 11 26 um 12 13" src="https://github.com/user-attachments/assets/263f6419-4f38-493a-97e1-2117a94b0a3c" />
 
 
