@@ -51,6 +51,8 @@
 
 
 ##  Thumbnails
+<img width="1198" height="456" alt="Bild 24 11 26 um 12 13" src="https://github.com/user-attachments/assets/263f6419-4f38-493a-97e1-2117a94b0a3c" />
+
 
 
 ## Interview
